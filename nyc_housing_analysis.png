@@ -1,0 +1,6 @@
+borough,total_complaints,closed,closure_rate_pct,pct_of_total
+BROOKLYN,581,370,63.7,29.0
+BRONX,465,309,66.5,23.2
+QUEENS,434,282,65.0,21.7
+MANHATTAN,415,260,62.7,20.8
+STATEN ISLAND,105,76,72.4,5.2
